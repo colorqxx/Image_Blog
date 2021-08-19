@@ -97,7 +97,7 @@ if (initCheck()) {
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
-        blogStartDate: "2021-08-18",
+        blogStartDate: "2021-08-17",
         menuCustomList: {},
         menuNavList: [],
         menuUserInfoBgImg: '',
