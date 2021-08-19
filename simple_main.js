@@ -97,13 +97,13 @@ if (initCheck()) {
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
-        blogStartDate: "2019-01-01",
+        blogStartDate: "2021-08-18",
         menuCustomList: {},
         menuNavList: [],
         menuUserInfoBgImg: '',
-        webpageTitleOnblur: "(oﾟvﾟ)ノ Hi",
+        webpageTitleOnblur: "Holo Master！",
         webpageTitleOnblurTimeOut: 500,
-        webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
+        webpageTitleFocus: "欢迎回来！",
         webpageTitleFocusTimeOut: 1000,
         webpageIcon: "",
         fontIconExtend: "",
@@ -174,12 +174,17 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_sky.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_1.jpg",
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_2.jpg",
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_3.jpg",
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_4.jpg",
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_5.jpg",
+            "https://cdn.jsdelivr.net/gh/colorqxx/Image_Blog@main/image_easyy_6.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
